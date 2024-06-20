@@ -11,7 +11,22 @@
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">
+              <img src="{{ 'img/social-icons/mail.svg' | relative_url }}" alt="Email" width="16" height="16" class="mail-icon"> 
+              {{ site.author.email }}
+            </a></li>
+          {%- endif %}
+          {% if site.author.github -%}
+            <li><a class="u-github" href="http://www.github.com/{{ site.author.github }}">
+              <img src="{{ 'img/social-icons/github.svg' | relative_url }}" alt="GitHub" width="16" height="16" class="github-icon"> 
+              {{ site.author.github }}
+            </a></li>
+          {%- endif %}
+          {% if site.author.linkedin -%}
+            <li><a class="u-linkedin" href="http://www.linkedin.com/in/{{ site.author.linkedin }}">
+              <img src="{{ 'img/social-icons/linkedin.svg' | relative_url }}" alt="LinkedIn" width="16" height="16" class="linkedin-icon"> 
+              {{ site.author.linkedin }}
+            </a></li>
           {%- endif %}
         </ul>
       {%- endif %}
@@ -19,10 +34,6 @@
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
     </div>
 
   </div>
