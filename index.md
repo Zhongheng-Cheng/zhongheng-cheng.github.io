@@ -10,14 +10,16 @@ layout: home
 
 <center>
     <a href="https://g.co/gsoc">
-        <img src="{{ "img/gsoc_logo.png" | relative_url }}" height="200"/>
+        <img src="{{ 'img/gsoc_logo.png' | relative_url }}" height="200"/>
     </a>
     <a href="https://www.redhenlab.org/home">
-        <img src="{{ "img/redhenlab_logo.png" | relative_url }}" height="200"/>
+        <img src="{{ 'img/redhenlab_logo.png' | relative_url }}" height="200"/>
     </a>
 </center>
 
 # Introduction
+
+<img src="{{ 'img/head.jpg' | relative_url }}" align="right" style="height: 150px; margin-left: 20px;"/>
 
 Welcome to my blog! I am Zhongheng Cheng, a master's student pursuing computer engineering at Columbia University. I have vast interest in **Machine Learning** and **Large Language Models**. Therefore, I feel genuinely excited to have the opportunity to contribute to Red Hen Lab as a participant of Google Summer of Code (GSoC) 2024, to push forward the study of frame blending in this LLMs era with collective effort.
 
