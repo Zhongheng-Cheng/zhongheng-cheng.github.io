@@ -9,6 +9,7 @@ permalink: /links/
 - [Red Hen Lab - GSoC 2024 Projects](https://sites.google.com/site/distributedlittleredhen/summer-of-code/red-hen-lab-gsoc-2024-projects?authuser=1)
 - [CWRU HPC - resource availability](https://ondemand-pioneer.case.edu/public/sinfo_pioneer.html)
 - [FrameNet dataset](https://framenet.icsi.berkeley.edu/)
+- [tmux - Cheat Sheet](https://quickref.me/tmux.html)
 
 ## Papers and Books
 
