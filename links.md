@@ -43,7 +43,7 @@ permalink: /links/
 
 ## Meeting Slides
 
-- [Red Hen Meeting - Jun 5](https://docs.google.com/presentation/d/1U146xp9m_TG4WHnmPZS1GGsRoKtYivm2XTi7cTwUUuE/edit)
+- [Red Hen Meeting - Jun 05](https://docs.google.com/presentation/d/1U146xp9m_TG4WHnmPZS1GGsRoKtYivm2XTi7cTwUUuE/edit)
 - [Red Hen Meeting - Jun 12](https://docs.google.com/presentation/d/1CQOJ_idwMbmsEkPlz6H8b7ie4kjR_bYWBnqozW_jd6A/edit)
 - [Red Hen Meeting - Jun 19](https://docs.google.com/presentation/d/1xDroiXTy4aONoPG3HoNfsC2JsvpbTsYuLj-MYNUapzs/edit)
 - [Red Hen Meeting - Jun 26](https://docs.google.com/presentation/d/1aGPTl_HrGXRf9VcDuRErm0DNwJm1BWAs8qvE0aAmlwQ/edit)
@@ -52,3 +52,4 @@ permalink: /links/
 - [Red Hen Meeting - Jul 17](https://docs.google.com/presentation/d/1AE7y3XksdLwUklue6bmcpHO0xwiNC_1jLSoPVB9uIFc/edit)
 - [Red Hen Meeting - Jul 24](https://docs.google.com/presentation/d/1bicnSQ9ufoZWez8di39IM1weF_XdeD_ugUp9tmt0gro/edit)
 - [Red Hen Meeting - Jul 31](https://docs.google.com/presentation/d/1lBtnyJB6aghkEM3WeZnO0YyyLa7Fs77CH5wKl3Fk4HI/edit)
+- [Red Hen Meeting - Aug 09](https://docs.google.com/presentation/d/1QaXMAhFqpPkmi0tftTBFVZCfYtVvF40ARAXvx_yAtC8/edit)
