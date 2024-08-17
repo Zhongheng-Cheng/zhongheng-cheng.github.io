@@ -53,3 +53,4 @@ permalink: /links/
 - [Red Hen Meeting - Jul 24](https://docs.google.com/presentation/d/1bicnSQ9ufoZWez8di39IM1weF_XdeD_ugUp9tmt0gro/edit)
 - [Red Hen Meeting - Jul 31](https://docs.google.com/presentation/d/1lBtnyJB6aghkEM3WeZnO0YyyLa7Fs77CH5wKl3Fk4HI/edit)
 - [Red Hen Meeting - Aug 09](https://docs.google.com/presentation/d/1QaXMAhFqpPkmi0tftTBFVZCfYtVvF40ARAXvx_yAtC8/edit)
+- [Red Hen Meeting - Aug 16](https://docs.google.com/presentation/d/1URuQ_7qLAF89c3T4ptq8yHkQhlZ75wqwWdfDZBtfqz0/edit)
